@@ -36,5 +36,5 @@
     "typescript": "~5.0.2"
   },
   "outputPath": "dist/visor_dades_nasa",
-  "baseHref": "/visor-dades-nasa/"
+  "baseHref": "/visor_dades_nasa/"
 }
